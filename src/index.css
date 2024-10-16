@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Playfair Display", serif;
+}
+.hover-card:hover {
+  transform: scale(1.05); /* Increase size */
+  background-color: orangered; /* Change card color on hover */
+  box-shadow: 2px 4px 8px black; /* Optional shadow */
+}
+body{
+  background-image: url(https://img.freepik.com/premium-photo/bookshelves-with-books-library_997053-243.jpg);
+  
+ 
+}
