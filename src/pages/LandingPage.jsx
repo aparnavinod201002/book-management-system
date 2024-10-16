@@ -2,7 +2,7 @@
 import React from 'react'
 import AddBooks from '../components/AddBooks'
 
-import ViewCard from '../Components/ViewCard'
+import ViewCard from '../components/ViewCard'
 
 
 function LandingPage() {
